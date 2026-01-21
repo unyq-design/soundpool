@@ -30,7 +30,7 @@ android {
         namespace 'pl.ukaszapps.soundpool'
     }
 
-    compileSdkVersion 31
+    compileSdkVersion 35
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
